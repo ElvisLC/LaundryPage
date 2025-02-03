@@ -5,7 +5,7 @@ const body=document.querySelector('.bg-bg-project font-poppins')
 
 
 const crearBarraNav = () => {
-    navBar.innerHTML = `<img class="logoImg" src="/media/logo.jpeg" width="150 " height="150" alt="Logo de la lavandería">
+    navBar.innerHTML = `<img class="logoImg" src="views/media/logo.jpeg" width="150 " height="150" alt="Logo de la lavandería">
         <div id="mySidenav" class="sidenav">
             <span class="closebtn btndisable" onclick="closeNav()">
                 <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="60px" height="60px" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
